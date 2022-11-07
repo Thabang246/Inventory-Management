@@ -8,7 +8,7 @@ These are the following Menu options :
 - re_stock - this function will find the shoe object with the lowest quantity. 
 - seach_shoe - This function will search for a shoe from the list using the shoe code.
 - value_per_item - this function will calculate the total value for each item.
-- highest_qty - Write code to determine the product with the highest quantity and print this shoe as being for sale.
+- highest_qty - This function will determine the product with the highest quantity and print this shoe as being for sale.
 
 Additionally The following methods have been been implemeted for better functionality and efficiency. 
 - get_cost - which return the cost of the shoe.
