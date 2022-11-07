@@ -10,8 +10,7 @@ These are the following Menu options :
 - value_per_item - this function will calculate the total value for each item.
 - highest_qty - Write code to determine the product with the highest quantity and print this shoe as being for sale.
 
-
-Additionally The follwoing methods have been been implemeted for better functionality and efficiency. 
-get_cost - which return the cost of the shoe.
-get_quanty - which return the quantity of the shoes.
-__str__ - Which returns a string representation of a class.
+Additionally The following methods have been been implemeted for better functionality and efficiency. 
+- get_cost - which return the cost of the shoe.
+- get_quanty - which return the quantity of the shoes.
+- __str__ - Which returns a string representation of a class.
