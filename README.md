@@ -1,4 +1,4 @@
-# Capstone-Project-IV
+# Inventory Management
 This program will read from the text file inventory.txt and perform the following on the data, to prepare for presentation to potentials managers:
 
 These are the following Menu options : 
